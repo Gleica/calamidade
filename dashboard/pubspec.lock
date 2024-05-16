@@ -290,7 +290,7 @@ packages:
     source: hosted
     version: "2.1.8"
   routefly:
-    dependency: transitive
+    dependency: "direct main"
     description:
       name: routefly
       sha256: b1ecd47943331b1dba744911a91907020a0b2dcdad0a0a8a40c94a418367b5bf

@@ -18,6 +18,8 @@ dependencies:
     path: ../core_module
   design_system: 
     path: ../design_system
+  #AutoInjector
+  auto_injector: ^1.0.2
 
 dev_dependencies:
   flutter_test:
